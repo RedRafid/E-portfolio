@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Abu Hanif Nayeem - E-Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <div class="container">
+            <img src="876e3c3c-43fa-40e0-870f-60d0f2d49006.png" alt="Abu Hanif Nayeem" class="profile-img">
+            <h1>Abu Hanif Nayeem</h1>
+            <p>Electrical & Electronic Engineering Student</p>
+            <nav>
+                <ul>
+                    <li><a href="#about">About Me</a></li>
+                    <li><a href="#resume">Resume</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- About Me Section -->
+    <section id="about" class="section">
+        <div class="container">
+            <h2>About Me</h2>
+            <p>
+                I am a final-year student of Electrical and Electronic Engineering at AIUB, with a focus on electronics, circuit design, and embedded systems.
+                I have hands-on experience with tools like MATLAB, Proteus, and Arduino. Eager to apply my knowledge in real-world projects.
+            </p>
+        </div>
+    </section>
+
+    <!-- Resume Section -->
+    <section id="resume" class="section">
+        <div class="container">
+            <h2>Resume</h2>
+            <p><a href="JOB AD_merged.pdf" target="_blank">Click here to view my full resume</a></p>
+            <h3>Education</h3>
+            <ul>
+                <li><strong>B.Sc. in Electrical and Electronic Engineering</strong> – American International University-Bangladesh (2022–2026)</li>
+                <li><strong>HSC – Science</strong> – Govt M M Ali College (2019–2021)</li>
+            </ul>
+            <h3>Work Experience</h3>
+            <ul>
+                <li><strong>Intern – Power System Division</strong> – BanglaTech Energy Ltd. (June 2024 – August 2024)</li>
+                <li><strong>Junior Embedded System Developer</strong> – SmartCircuits BD (January 2024 – April 2024)</li>
+                <li><strong>Lab Assistant</strong> – AIUB (September 2023 – December 2023)</li>
+            </ul>
+            <h3>Skills</h3>
+            <ul>
+                <li>Circuit Design (Proteus, MATLAB Simulink)</li>
+                <li>Embedded Systems (Arduino, ESP32)</li>
+                <li>ETAP (Basic)</li>
+                <li>Project Management</li>
+                <li>Leadership & Communication</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Projects Section -->
+    <section id="projects" class="section">
+        <div class="container">
+            <h2>Projects</h2>
+            <h3>Smart Traffic Control System</h3>
+            <p>A traffic control system using sensors and microcontrollers (Arduino/ESP32). The project aimed to build an automated traffic control solution to optimize traffic flow.</p>
+            <h3>Single Line Diagrams (SLD) Design</h3>
+            <p>Worked on designing single-line diagrams for power systems, ensuring correct load flow and fault analysis.</p>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section">
+        <div class="container">
+            <h2>Contact Information</h2>
+            <p><strong>Phone:</strong> 01795532859</p>
+            <p><strong>Email:</strong> abunayeem@gmail.com</p>
+            <p><strong>Location:</strong> Dhaka, Bangladesh</p>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Abu Hanif Nayeem. All rights reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
